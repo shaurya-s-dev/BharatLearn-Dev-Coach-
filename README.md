@@ -22,10 +22,10 @@ Open → **http://localhost:3001**
 
 ## What's Running
 
-| Service  | URL                      | Purpose              |
-|----------|--------------------------|----------------------|
-| Frontend | http://localhost:3001    | Next.js React UI     |
-| Backend  | http://localhost:3000    | Express API (proxied)|
+| Service  | URL                                              | Purpose              |
+|----------|--------------------------------------------------|----------------------|
+| Frontend | https://bharat-learn-frontend.vercel.app/home    | Next.js React UI     |
+| Backend  | https://bharatlearn-backend.onrender.com/        | Express API (proxied)|
 
 The frontend proxies `/api/*` and `/auth/*` to the backend automatically — **you only open one URL**.
 
@@ -111,3 +111,4 @@ bharatlearn/
     ├── next.config.ts    ← proxies /api/* → backend
     └── package.json
 ```
+
