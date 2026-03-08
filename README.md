@@ -8,7 +8,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-bharat--learn--frontend.vercel.app-blue?style=for-the-badge&logo=vercel)](https://bharat-learn-frontend.vercel.app/home)
 [![Backend API](https://img.shields.io/badge/Backend%20API-Render-green?style=for-the-badge&logo=render)](https://bharatlearn-backend.onrender.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Built With](https://img.shields.io/badge/Built%20With-Next.js%20%7C%20Node.js%20%7C%20Groq%20AI-purple?style=for-the-badge)](https://github.com/shaurya-s-dev/BharatLearn-Dev-Coach-)
 
 ---
@@ -87,7 +86,6 @@ There is no tool that teaches them **how to think through a problem**. No mentor
 | 📊 **Progress Dashboard** | Study streak tracker, weekly activity chart, topic mastery bars, 30-day heatmap, weak-area alerts, and quick-start action cards. |
 | 🌐 **Multi-Language Support** | Explanations available in Hindi, Tamil, Telugu, and English. |
 | 📱 **Mobile-First Design** | Fully responsive, works on low-end Android devices, optimised for 2G mobile data (under 1 KB per AI request). |
-| 🔥 **Gamified Learning** | Daily streaks, achievement badges, and progress tracking to reinforce consistent practice. |
 
 ---
 
@@ -375,10 +373,6 @@ This project was built for the **AI for Bharat Hackathon** powered by AWS.
 | Shaurya Singh | Team Lead, Full-Stack Development |
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
